@@ -1,0 +1,23 @@
+{
+    "window.zoomLevel": 0,
+    "git.enableSmartCommit": true,
+    "git.autofetch": false,
+    "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}",
+    "breadcrumbs.enabled": true,
+    "explorer.openEditors.visible": 0,
+
+    "editor.tabSize": 4,
+    "editor.codeLens": true,
+    "editor.insertSpaces": true,
+    "powermode.enabled": true,
+    "powermode.enableShake": false,
+    "powermode.explosionDuration": 500,
+    "powermode.explosionOffset": 0.2,
+    "powermode.comboThreshold": 5,
+
+    "files.trimTrailingWhitespace": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "typescript.reportStyleChecksAsWarnings": false
+}
